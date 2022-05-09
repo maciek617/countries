@@ -1,4 +1,7 @@
-# countries
+# Countries
+You can search for any country on the Earth, discover flags, capital cities and much more!
+
+Live: https://countries-search-vue.netlify.app/
 
 ## Project setup
 ```
